@@ -1,8 +1,8 @@
 #include <SPI.h>
 #include <Servo.h>
-Servo myservo;  // create servo object to control a servo
+Servo myservo;  //create servo object to control a servo
 // twelve servo objects can be created on most boards
-int pos = 0;    // variable to store the servo position
+int pos = 0;    //variable to store the servo position
 const int red = A3;   //define red led
 const int grn = A2;  //define green led
 const int ir = A0; //pir sensor is sonnected at pin A0
