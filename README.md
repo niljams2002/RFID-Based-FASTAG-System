@@ -5,5 +5,5 @@ The project’s aim is to demonstrate a simple version of the FASTAG  system wit
 
 When a car with a FASTAG ID (RFID tag attached) is approaching the toll  gate, the FASTAG reader (RFID sensor), the tag number is authenticated  and the gate is opened. If the tag is wrong (not authorized), the gate will not open. The  gate remains open until the car completely passes by, ensuring safety of  the car (with the help of IR Sensor).
 
-Software: Arduino IDE (Customized Java)
+Software: Arduino IDE 
 
